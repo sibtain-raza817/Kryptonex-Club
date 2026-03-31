@@ -63,15 +63,7 @@ const teamData: TeamData = {
       github: 'https://github.com/yash-yb',
       linkedin: 'https://www.linkedin.com/in/yash-bhanushali-87584b391/',
     },
-    
-    {
-      name: 'Sibtain Raza',
-      role: 'Technical Member',
-      image: '/images/Raza.jpeg',
-      github: 'https://github.com/sibtain-raza817',
-      linkedin: 'https://www.linkedin.com/in/sibtain-raza-71ba56320/',
-    },
-    {
+     {
       name: 'Sujal Patil',
       role: 'Technical Member',
       image: '/images/sujal.jpeg',
@@ -79,9 +71,17 @@ const teamData: TeamData = {
       linkedin: 'https://www.linkedin.com/in/sujalpatil21/',
     },
     {
+      name: 'Sibtain Raza',
+      role: 'Technical Member',
+      image: '/images/Raza.jpeg',
+      github: 'https://github.com/sibtain-raza817',
+      linkedin: 'https://www.linkedin.com/in/sibtain-raza-71ba56320/',
+    },
+   
+    {
       name: 'Vaishnavi Ganesh Mahajan',
       role: 'Technical Member',
-      image: '/images/vashnavi.jpeg', 
+      image: '/images/devansh.jpg', 
       github: 'https://github.com/vaishnaviimahajann',
       linkedin: 'https://www.linkedin.com/in/vaishnavi-mahajan-819911390/',
     },
