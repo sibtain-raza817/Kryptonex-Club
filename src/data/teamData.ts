@@ -56,13 +56,7 @@ const teamData: TeamData = {
       github: '',
       linkedin: 'https://www.linkedin.com/in/vallabh-chikhale-628655326/',
     },
-    {
-      name: 'Yash Vasant Bhanushali',
-      role: 'Technical Head',
-      image: '/images/Yash.jpg',
-      github: 'https://github.com/yash-yb',
-      linkedin: 'https://www.linkedin.com/in/yash-bhanushali-87584b391/',
-    },
+   
      {
       name: 'Sujal Patil',
       role: 'Technical Member',
@@ -81,9 +75,16 @@ const teamData: TeamData = {
     {
       name: 'Vaishnavi Ganesh Mahajan',
       role: 'Technical Member',
-      image: '/images/devansh.jpg', 
+      image: '/images/vashnavi.jpeg', 
       github: 'https://github.com/vaishnaviimahajann',
       linkedin: 'https://www.linkedin.com/in/vaishnavi-mahajan-819911390/',
+    },
+     {
+      name: 'Yash Vasant Bhanushali',
+      role: 'Technical Head',
+      image: '/images/Yash.jpg',
+      github: 'https://github.com/yash-yb',
+      linkedin: 'https://www.linkedin.com/in/yash-bhanushali-87584b391/',
     },
     {
       name: 'Aarya Joshi',
@@ -96,7 +97,7 @@ const teamData: TeamData = {
     {
       name: 'Devansh Deshmukh',
       role: 'Technical Member',
-      image: '/images/vashnavi.jpeg', 
+      image: '/images/devansh.jpg', 
       github: 'https://github.com/devanshdeshmukh-hue',
       linkedin: 'https://www.linkedin.com/in/devansh-deshmukh-374974390/',
     },
